@@ -1,0 +1,10 @@
+<templateSet group="work">
+  <template name="dictSelect" value="&lt;select id=&quot;$id$&quot; class=&quot;form-control-select&quot;&gt;&#10;    &lt;option value=&quot;&quot;&gt;&lt;/option&gt;&#10;    &lt;c:forEach items=&quot;${fns:getDictList('$dict_code$')}&quot; var=&quot;label&quot;&gt;&#10;        &lt;option value=&quot;${label.value}&quot;&gt;${label.label}&lt;/option&gt;&#10;    &lt;/c:forEach&gt;&#10;&lt;/select&gt;" shortcut="ENTER" description="从字典中渲染select组件" toReformat="false" toShortenFQNames="true">
+    <variable name="id" expression="" defaultValue="id" alwaysStopAt="true" />
+    <variable name="dict_code" expression="" defaultValue="dict_code" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="JSP" value="true" />
+    </context>
+  </template>
+</templateSet>

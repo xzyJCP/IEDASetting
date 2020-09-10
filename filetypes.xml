@@ -1,0 +1,20 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping pattern="融资资料管理维护文档.md" type="Markdown" />
+      <mapping pattern="passwd" type="PLAIN_TEXT" />
+      <mapping pattern="authz" type="PLAIN_TEXT" />
+      <mapping pattern="user_list" type="PLAIN_TEXT" />
+      <mapping ext="pproperties" type="PLAIN_TEXT" />
+      <mapping ext="cnf" type="PLAIN_TEXT" />
+      <mapping ext="woff2" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="perproties" type="PLAIN_TEXT" />
+      <mapping ext="out" type="PLAIN_TEXT" />
+      <mapping ext="db" type="PLAIN_TEXT" />
+      <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
+    </extensionMap>
+  </component>
+</application>

@@ -1,0 +1,56 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Git.Settings">
+        <option name="ROOT_SYNC" value="DONT_SYNC" />
+      </component>
+      <component name="InspectionProjectProfileManager">
+        <option name="PROJECT_PROFILE" />
+        <version value="1.0" />
+      </component>
+      <component name="MavenImportPreferences">
+        <option name="generalSettings">
+          <MavenGeneralSettings>
+            <option name="mavenHome" value="C:\Environment\JetBrains\IntelliJ IDEA 2020.2\plugins\maven\lib\maven3" />
+          </MavenGeneralSettings>
+        </option>
+      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="IntelliJ IDEA IU-192.7142.36" project-jdk-type="IDEA JDK" />
+      <component name="PropertiesComponent">
+        <property name="last_opened_file_path" value="C:/Work/Project" />
+        <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+        <property name="project.structure.last.edited" value="Problems" />
+        <property name="project.structure.proportion" value="0.0" />
+        <property name="project.structure.side.proportion" value="0.2" />
+        <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
+      </component>
+      <component name="SvnConfiguration">
+        <configuration>C:\Users\XZY\AppData\Roaming\Subversion</configuration>
+        <option name="runUnderTerminal" value="true" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="GlobalLibrariesConfigurable.UI" />
+          <state key="JdkListConfigurable.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+            </settings>
+          </state>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectLibrariesConfigurable.UI" />
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

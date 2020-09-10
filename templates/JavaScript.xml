@@ -1,0 +1,18 @@
+<templateSet group="JavaScript">
+  <template name="ajax" value="$.ajax({&#10;            type : 'post',&#10;            url : $url$,&#10;            data:$data$,&#10;&#9;&#9;&#9;async:true,&#10;            success : function(res) {&#10;            },&#10;            error : function(res) {&#10;            }&#10;        });" description="生成Jquery的ajax模板代码" toReformat="false" toShortenFQNames="true">
+    <variable name="url" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="data" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="ECMAScript6" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="post" value="$.post($url$,$data$,function(data, textStatus, jqXHR){&#9;&#9;&#10;});" description="生成Jquery的POST模板代码" toReformat="false" toShortenFQNames="true">
+    <variable name="url" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="data" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="ECMAScript6" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

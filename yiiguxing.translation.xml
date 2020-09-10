@@ -1,0 +1,49 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Binary" />
+      <item value="Catalog" />
+      <item value="Precision" />
+      <item value="* Gets the designated column's suggested title for use in printouts and * displays. The suggested title is usually specified by the SQL &lt;code&gt;AS&lt;/code&gt; * clause. If a SQL &lt;code&gt;AS&lt;/code&gt; is not specified, the value returned from * &lt;code&gt;getColumnLabel&lt;/code&gt; will be the same as the value returned by the * &lt;code&gt;getColumnName&lt;/code&gt; method." />
+      <item value="signed numbers." />
+      <item value="Signed" />
+      <item value="nullability" />
+      <item value="is a cash value" />
+      <item value="Currency" />
+      <item value="Case Sensitive" />
+      <item value="Sensitive(" />
+      <item value="numbered" />
+      <item value="designated" />
+      <item value="whether" />
+      <item value="Indicates" />
+      <item value="NOOP" />
+      <item value="so be aware that a servlet must handle concurrent * requests and be careful to synchronize access to shared resources" />
+      <item value="aware" />
+      <item value="typically" />
+      <item value="serial" />
+      <item value="Aware" />
+      <item value="no subsequent BeanPostProcessors will be invoked" />
+      <item value="Instantiate" />
+      <item value="Disposable" />
+      <item value="Dispos" />
+      <item value="Capable" />
+      <item value="Set the role hint for the associated bean." />
+      <item value="role hint" />
+      <item value="hint" />
+      <item value="Delegating" />
+      <item value="Generic" />
+      <item value="Disposition" />
+      <item value="Dispatch" />
+      <item value="        System.out.println(&quot;getServletInfo&quot;); " />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="32" />
+        <entry key="ENGLISH" value="32" />
+        <entry key="CHINESE_TRADITIONAL" value="1" />
+        <entry key="ESTONIAN" value="1" />
+        <entry key="FRENCH" value="1" />
+      </map>
+    </option>
+  </component>
+</application>

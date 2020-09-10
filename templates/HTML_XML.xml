@@ -1,0 +1,7 @@
+<templateSet group="HTML/XML">
+  <template name="aliyun" value="&lt;repositories&gt;&#10;        &lt;repository&gt;&#10;            &lt;id&gt;public&lt;/id&gt;&#10;            &lt;name&gt;aliyun nexus&lt;/name&gt;&#10;            &lt;url&gt;http://maven.aliyun.com/nexus/content/groups/public/&lt;/url&gt;&#10;            &lt;releases&gt;&#10;                &lt;enabled&gt;true&lt;/enabled&gt;&#10;            &lt;/releases&gt;&#10;        &lt;/repository&gt;&#10;    &lt;/repositories&gt;&#10;&#10;    &lt;pluginRepositories&gt;&#10;        &lt;pluginRepository&gt;&#10;            &lt;id&gt;public&lt;/id&gt;&#10;            &lt;name&gt;aliyun nexus&lt;/name&gt;&#10;            &lt;url&gt;http://maven.aliyun.com/nexus/content/groups/public/&lt;/url&gt;&#10;            &lt;releases&gt;&#10;                &lt;enabled&gt;true&lt;/enabled&gt;&#10;            &lt;/releases&gt;&#10;            &lt;snapshots&gt;&#10;                &lt;enabled&gt;false&lt;/enabled&gt;&#10;            &lt;/snapshots&gt;&#10;        &lt;/pluginRepository&gt;&#10;    &lt;/pluginRepositories&gt;" description="阿里云镜像" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+</templateSet>
